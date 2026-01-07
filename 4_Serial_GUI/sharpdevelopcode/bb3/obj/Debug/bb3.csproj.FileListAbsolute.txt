@@ -1,0 +1,14 @@
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\obj\Debug\bb3.csprojResolveAssemblyReference.cache
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\obj\Debug\bb3.MainForm.resources
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\obj\Debug\bb3.csproj.GenerateResource.Cache
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\bin\Debug\bb3.exe
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\bin\Debug\bb3.pdb
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\obj\Debug\bb3.exe
+C:\Users\ardayavuz\Documents\SharpDevelop Projects\bb3\bb3\obj\Debug\bb3.pdb
+C:\Users\serif\Desktop\bb3\bb3\bin\Debug\bb3.exe
+C:\Users\serif\Desktop\bb3\bb3\bin\Debug\bb3.pdb
+C:\Users\serif\Desktop\bb3\bb3\obj\Debug\bb3.csprojResolveAssemblyReference.cache
+C:\Users\serif\Desktop\bb3\bb3\obj\Debug\bb3.MainForm.resources
+C:\Users\serif\Desktop\bb3\bb3\obj\Debug\bb3.csproj.GenerateResource.Cache
+C:\Users\serif\Desktop\bb3\bb3\obj\Debug\bb3.exe
+C:\Users\serif\Desktop\bb3\bb3\obj\Debug\bb3.pdb
